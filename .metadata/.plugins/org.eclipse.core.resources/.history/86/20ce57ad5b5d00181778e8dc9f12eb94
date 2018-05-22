@@ -1,0 +1,13 @@
+package br.com.fiap.helper;
+
+import javax.persistence.EntityManager;
+
+public class EventoHelper {
+	
+	private EntityManager em;
+	
+	public EventoHelper(EntityManager em) {
+		this.em = em;
+	}
+	
+}

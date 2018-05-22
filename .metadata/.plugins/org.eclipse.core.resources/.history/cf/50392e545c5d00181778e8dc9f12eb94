@@ -1,0 +1,26 @@
+package br.com.fiap.aplicacao;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+public class AppEventos {
+
+	public static void main(String[] args) {
+		//incluirEvento();
+		//listarEventos();
+		//listarParticipantes(1);
+	}
+	
+	private static void incluirEvento() {
+		EntityManagerFactory emf =
+			Persistence.createEntityManagerFactory("jpaPU");
+		
+		EntityManager em = emf.createEntityManager();
+		
+		EventoHelper helper = new EventoHelper(em);
+		
+		
+	}
+
+}

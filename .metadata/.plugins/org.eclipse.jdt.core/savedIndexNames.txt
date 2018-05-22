@@ -1,0 +1,12 @@
+INDEX VERSION 1.130+D:\dados\drive_java\JAVA_PERSISTENCIA\Persistencia\.metadata\.plugins\org.eclipse.jdt.core
+1597591721.index
+343158228.index
+1658164186.index
+3131678148.index
+3072802493.index
+2373191057.index
+770776173.index
+3669284537.index
+2328033570.index
+982882007.index
+185154182.index

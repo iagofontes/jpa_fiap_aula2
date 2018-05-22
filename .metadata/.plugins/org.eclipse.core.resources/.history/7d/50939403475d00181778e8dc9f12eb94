@@ -1,0 +1,15 @@
+package br.com.fiap.repository;
+
+import br.com.fiap.dao.EventosDao;
+
+public class Repositorio {
+	
+	static EventosDao eventosDao;
+	
+	public static EventosDao getEventosDao() {
+		if(eventosDao ==  null)
+			eventosDao = new EventosDao();
+		return eventosDao;
+	}
+	
+}

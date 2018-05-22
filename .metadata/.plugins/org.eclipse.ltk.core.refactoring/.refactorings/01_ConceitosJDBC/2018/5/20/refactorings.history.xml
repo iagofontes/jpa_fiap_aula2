@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;br.com.fiap.entity.Convidado&apos; to &apos;Participante&apos;&#x0D;&#x0A;- Original project: &apos;01_ConceitosJDBC&apos;&#x0D;&#x0A;- Original element: &apos;br.com.fiap.entity.Convidado&apos;&#x0D;&#x0A;- Renamed element: &apos;br.com.fiap.entity.Participante&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Convidado&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;br.com.fiap.entity{Convidado.java[Convidado" matchStrategy="1" name="Participante" qualified="false" references="true" similarDeclarations="false" stamp="1526514562664" textual="false" version="1.0"/>
+</session>
